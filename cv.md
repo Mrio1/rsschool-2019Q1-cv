@@ -11,7 +11,7 @@ Start a career as a js developer and in five years have the skills of a senior d
   - [CSS basic](https://www.codecademy.com/AliaksandrZhur) 
   - [Git basik](https://www.codecademy.com/AliaksandrZhur) 
 ##  My experience
-Solving algorithmic problems within "The Rolling Scopes School" course ([GitHub repositories](https://github.comMrio1?tab=repositories)).
+Solving algorithmic problems within "The Rolling Scopes School" course ([GitHub repositories](https://github.com/Mrio1?tab=repositories)).
  ## Education: 
  - Belarusian National Technical University, Minsk - Building engineer;
  - International University of Distance Education, Minsk - Master of Economics.
